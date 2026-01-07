@@ -1,7 +1,7 @@
 tqdm==4.65.0
-numpy==1.21.5
+numpy
 Pillow==9.2.0
-opencv-python==4.9.0
+opencv-python
 imageio
 matplotlib==3.5.2
 kornia
